@@ -10,9 +10,9 @@ import FlightForm from './components/form/FlightForm';
 const { Header, Footer, Content } = Layout;
 
 const iconStyle = {
-  backgroundImage: "url('https://imgak.mmtcdn.com/pwa_v3/pwa_commons_assets/homePageV3/home-revamp-sprite16.webp')",
-  backgroundPosition: '0px -425px',
-  backgroundSize: '300px 550px',
+  backgroundImage: "url('https://imgak.mmtcdn.com/pwa_v3/pwa_commons_assets/desktop/B2CHeaderSprite.png')",
+  backgroundPosition: '2px -30px',
+  backgroundSize: '200px 350px',
   width: '42px',
   height: '42px',
   borderRadius: '100%'
